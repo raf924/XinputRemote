@@ -6,6 +6,7 @@
 
 // We need the Windows Header and the XInput Header
 #include <windows.h>
+//#include <xinput.h>
 #include <XInput.h>
 
 // Now, the XInput Library
